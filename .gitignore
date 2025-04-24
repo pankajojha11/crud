@@ -44,7 +44,6 @@ target/
 .idea
 *.iws
 *.iml
-*.ipr
 
 ### NetBeans ###
 /nbproject/private/
